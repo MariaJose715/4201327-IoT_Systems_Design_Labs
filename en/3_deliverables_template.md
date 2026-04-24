@@ -2,8 +2,8 @@
 **GreenField Technologies | IoT Systems Design**
 
 **Team Members:**
-1. ____________________
-2. ____________________
+1. Sebastian Tovar Jimenez
+2. María José Cuadros
 
 ---
 
